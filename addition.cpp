@@ -1,10 +1,10 @@
-#include<iostream>
+#include<bits/stdc++.h>
 using namespace std;
-int main()
-{
-  int a=3;
-  int b=4;
-  int c=a+b;
-  cout<<c;
-  return 0;
-}
+ int main()
+ {
+     int a,b;
+     cin>>a>>b;
+     cout<<"The sum is "<<a+b<<endl;
+     return 0;
+     
+ }
