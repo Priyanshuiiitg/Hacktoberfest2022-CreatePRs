@@ -1,4 +1,8 @@
-# This program prints Hello, world!
-
-print('Hello, world!')
-
+#include<bits/stdc++.h>
+using namespace std;
+ int main()
+ {
+     cout<<"Hello World!"<<endl;
+     
+     
+ }
